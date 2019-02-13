@@ -1,5 +1,8 @@
-"""{{_header_}}
+""" {{_header_}}
 
-:param {{_args_}}:
-:rtype: {{_return_type_}}
+{{_indent_}}Args:
+{{_nested_indent_}}{{_args_}} : 
+
+{{_indent_}}Returns:
+{{_nested_indent_}}{{_return_type_}} : 
 """
